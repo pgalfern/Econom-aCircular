@@ -4,7 +4,7 @@
 
 ## Índice
 
-1. [Introducción](Introducción.md)
+1. [Introducción](Introduccion.md)
 2. [Concepto de economía circular](conceptoEconomiaCircular.md)
 3. [Modelos de producción actuales y consumismo](modeloProduccion.md)
 4. [La economía verde](economiaVerde.md)
