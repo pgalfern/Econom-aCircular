@@ -1,4 +1,4 @@
-# Economia Circular
+# Economía Circular
 
 ![Circular](img/ecoCir.jpg)
 
