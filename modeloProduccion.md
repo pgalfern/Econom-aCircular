@@ -62,7 +62,7 @@
         Componentes estandarizados que se ensamblan en configuraciones personalizadas.
         Reducción de costos y aumento de la flexibilidad.
 
-# Consumismo
+### Consumismo
 Podemos definir "consumismo" como una tendencia inmoderada a adquirir, gastar o consumir bienes, no siempre necesarios.
 
 ### La regla de las 7R
