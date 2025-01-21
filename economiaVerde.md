@@ -1,5 +1,6 @@
-# ¿Qué es?
-Es la práctica del desarrollo sostenible a través del apoyo de la inversión pública y privada para crear infraestructuras que promuevan la sostenibilidad social y medioambiental. La importancia de la economía verde radica en que impulsa a las economías a ser más sostenibles y bajas en carbono, y garantiza que los bienes naturales sigan proporcionando los recursos y servicios medioambientales para nuestro continuo bienestar.
+# ¿Qué es la economía verde?
+
+Modelo económico que prioriza el desarrollo sostenible, reduciendo la degradación ambiental y promoviendo la equidad social.
 
 # Principios de la economía verde
 - Bienestar centrado en las personas: Busca mejorar el bienestar económico, humano, social y cultural mediante el acceso a educación, tecnologías sostenibles y procesos respetuosos con el medioambiente.
