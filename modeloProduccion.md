@@ -1,5 +1,7 @@
 # Modelos de producción actuales
 
+![Modelos](img/fab.jpg)
+
 | **Tipo de Producción**         | **Características**                                                                                                           |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | **Producción en masa**         | - Uso intensivo de maquinaria. <br> - Grandes volúmenes de productos estandarizados. <br> - Bajos costos unitarios por economías de escala. |
