@@ -1,4 +1,5 @@
 # Modelos de producción actuales
+
 1. Producción en masa (Mass Production)
 
     Características:
@@ -63,3 +64,7 @@
 
 # Consumismo
 Podemos definir "consumismo" como una tendencia inmoderada a adquirir, gastar o consumir bienes, no siempre necesarios.
+
+### La regla de las 7R
+
+Se refiere a los palabras: Reducir, reutilizar, reciclar, reparar, renovar, recuperar y rediseñar para disminuir el impacto ambiental.
