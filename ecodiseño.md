@@ -19,3 +19,7 @@ En una era donde la preocupación por el medio ambiente está en constante creci
 6. Criterios ESG (Ambientales, Sociales y de Gobernanza): Integrar estos factores para asegurar la generación de valor a largo plazo.
 
 7. Alianzas estratégicas: Colaborar con otras empresas sostenibles para compartir prácticas, desarrollar proyectos y fomentar el crecimiento conjunto.
+
+### La obsolescencia programada.
+
+Fabricación de productos con una vida útil limitada para fomentar el reemplazo frecuente.
