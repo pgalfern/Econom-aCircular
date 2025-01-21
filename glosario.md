@@ -1,1 +1,1 @@
-
+![Autores](img/glosario.jpg)
