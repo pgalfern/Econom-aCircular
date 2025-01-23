@@ -1,6 +1,8 @@
 # ¿Qué es el ecodiseño?
 Es una filosofía aplicada en la creación de productos, servicios y sistemas, que busca reducir su impacto ambiental a lo largo de toda su vida útil. Esto incluye desde la elección de los materiales y la producción, hasta su uso y finalmente su desecho. 
 
+![Ecodiseño](img/Ecodiseno-4.jpg)
+
 # ¿Por qué es importante el ecodiseño?
 
 En una era donde la preocupación por el medio ambiente está en constante crecimiento, el ecodiseño se presenta como una solución innovadora y necesaria. Nos permite no solo reducir el daño que causamos al planeta, sino también crear una economía más circular y sostenible. 
