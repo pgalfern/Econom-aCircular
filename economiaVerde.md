@@ -2,6 +2,8 @@
 
 Modelo económico que prioriza el desarrollo sostenible, reduciendo la degradación ambiental y promoviendo la equidad social.
 
+![Economía verde](img/ecoVerde.jpg)
+
 # Principios de la economía verde
 - Bienestar centrado en las personas: Busca mejorar el bienestar económico, humano, social y cultural mediante el acceso a educación, tecnologías sostenibles y procesos respetuosos con el medioambiente.
 
