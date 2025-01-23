@@ -1,6 +1,6 @@
 # Economía circular
 
-![Economía circular](img/read.jpg)
+![Economía circular](img/Economia_circular.jpg)
 
 ## Índice
 
