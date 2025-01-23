@@ -1,6 +1,8 @@
 # Ciclo de vida de un producto
 Se utiliza para dividir la vida de un producto de principio a fin. En la primera etapa, el producto es ideado por primera vez.
 
+![Ciclo de vida de un producto](img/cicloVidaPro.jpg)
+
 ### Etapas
 1. Etapa de desarrollo: Se investiga el mercado, se evalúan capacidades internas y se diseñan productos para satisfacer necesidades  dentificadas. Incluye pruebas y ajustes según comentarios previos al lanzamiento.
 
