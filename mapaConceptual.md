@@ -1,3 +1,3 @@
 # Mapa conceptual
 
-![Mapa conceptual](img/)
+![Mapa conceptual](img/mapaConceptual.jpg)
