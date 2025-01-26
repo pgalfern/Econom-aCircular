@@ -1,6 +1,8 @@
 # ¿Qué es la economía verde?
 
+<p align="justify">
 Modelo económico que prioriza el desarrollo sostenible, reduciendo la degradación ambiental y promoviendo la equidad social.
+</p>
 
 ![Economía verde](img/ecoVerde.jpg)
 
