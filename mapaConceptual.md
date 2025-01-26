@@ -1,3 +1,3 @@
 # Mapa conceptual
 
-![Mapa conceptual](img/mapaConceptual.jpg)
+![Mapa conceptual](img/mapaEconomía.jpg)
