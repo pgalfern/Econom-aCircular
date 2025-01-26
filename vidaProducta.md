@@ -1,5 +1,7 @@
 # Ciclo de vida de un producto
+<p align="justify">
 Se utiliza para dividir la vida de un producto de principio a fin. En la primera etapa, el producto es ideado por primera vez.
+</p>
 
 ![Ciclo de vida de un producto](img/cicloVidaPro.jpg)
 
@@ -13,5 +15,6 @@ Se utiliza para dividir la vida de un producto de principio a fin. En la primera
 4. Etapa de declive: Las ventas disminuyen debido a costos altos, cambios en el comportamiento del consumidor y la entrada de productos superiores. Se observa una caída en la cuota de mercado.
 
 ### La huella ecológica.
-
+<p align="justify">
 Indicador que mide el impacto humano en el planeta según el uso de recursos y generación de residuos.
+</p>
